@@ -1,0 +1,19 @@
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+
+# Ignore video files
+*.mp4
+# *.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.webm
+
+# Ignore images directory
+images/ 
